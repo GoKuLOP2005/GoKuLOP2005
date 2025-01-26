@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gokul Raj Rajasekaran
-- 👀 I’m interested in ML and Electric Machines
-- 🌱 I’m currently learning Electrical and Electronics engineering 
+- 👀 I’m interested in the domain of digital electronics and embedded systems
+- 🌱 I’m currently learning Electrical and Electronics engineering in National institue of technology,Warangal
 - 😄 Pronouns: He/Him
 
 
